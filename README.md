@@ -3,8 +3,7 @@ exercise8
 Ex - GroupBy
 Introduction:
 GroupBy can be summarizes as Split-Apply-Combine.
-Special thanks to: https://github.com/justmarkham for sharing the dataset and materials.
-Check out this Diagram
+heck out this Diagram
 Step 1. Import the necessary libraries
 In [ ]:
 
